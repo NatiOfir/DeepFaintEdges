@@ -42,3 +42,4 @@ FinalImages/Res/9_small_Res.png
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
+*.pyc
